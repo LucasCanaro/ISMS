@@ -42,9 +42,9 @@
 
 - 아래 3단계로 실력을 향상해야 한다.
 
-가. 인증기준 안내서를 통한 인증기준 이해 <br>
-나. 인증기준 안내서에 있는 결함사례 이해 <br>
-다. 상황에 따른 인증기준 적용 역량 제고 <br>
+    가. 인증기준 안내서에 적혀 있는 인증기준 이해 <br>
+    나. 인증기준 안내서에 적혀 있는 결함사례 이해 <br>
+    다. 다양한 상황에서 인증기준을 적용하는 역량 제고 <br>
 
 - 그 외에 ISMS-P 인증제도와 여타 보안 기술적인 내용에 대한 지식을 요구하기도 한다.
 
@@ -68,15 +68,17 @@
 
     - 예를 들어서, 정보주체에게 개인정보 현황을 알리는 것은 '3.5.1 개인정보 처리 방침 공개'가 있다. 개인정보 처리방침 공개는 정보주체에게 정보를 제공하는 것이기 때문에, OECD 8원칙 중에 '공개의 원칙'과도 연결되기 때문에 이해가 된다.
     ```
-    OECD 8원칠
-    ① 수집제한의 원칙 (Collection Limitation Principle)
-    ② 정보내용 정확성의 원칙 (Data Quality Principle: Personal data should be should be accurate, complete and kept up-to-date.)
-    ③ 수집목적 명확화의 원칙 (Purpose Specification Principle)
-    ④ 이용제한의 원칙 (Use Limitation Principle)
-    ⑤ 안전확보의 원칙 (Security Safeguards Principle)
-    ⑥ 공개의 원칙 (Openness Principle)
-    ⑦ 개인참가의 원칙 (Individual Participation Principle)
-    ⑧ 책임의 원칙 (Accountability Principle)
-    ```
+        OECD 8원칙
+        ① 수집제한의 원칙 (Collection Limitation Principle)
+        ② 정보내용 정확성의 원칙 (Data Quality Principle: Personal data should be should be accurate, complete and kept up-to-date.)
+        ③ 수집목적 명확화의 원칙 (Purpose Specification Principle)
+        ④ 이용제한의 원칙 (Use Limitation Principle)
+        ⑤ 안전확보의 원칙 (Security Safeguards Principle)
+        ⑥ 공개의 원칙 (Openness Principle)
+        ⑦ 개인참가의 원칙 (Individual Participation Principle)
+        ⑧ 책임의 원칙 (Accountability Principle)
+        ```
     
     - 그러나,'3.2.1 개인정보 현황관리'에서는 개인정보파일 현황을 개인정보보호 위원회에 60일 이내에 등록하도록 되어 있는데, 이 제도의 취지는 이해가 어렵다.
+
+    - 추정을 해 보면, '3.2.1 개인정보 현황관리'에 언급된 개인정보파일 등록은 공공기관 대상으로 개인정보보호 위원회가 공공기관을 대상으로 공공기관의 개인정보파일 운영 현황을 파악하기 위한 용도로 생각된다. 
